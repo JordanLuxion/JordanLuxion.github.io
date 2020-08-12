@@ -1,0 +1,25 @@
+{
+    "image": "1.26.5",
+    "model_sets": [
+        "Default"
+    ],
+    "multi_materials": [
+        {
+            "base_material": "Sole",
+            "sub_material": "Dark Grey"
+        },
+        {
+            "base_material": "Cage",
+            "sub_material": "Grey"
+        },
+        {
+            "base_material": "Upper",
+            "sub_material": "Grey"
+        },
+        {
+            "base_material": "Caps #1",
+            "sub_material": "Black"
+        }
+    ],
+    "studio": "Left"
+}
