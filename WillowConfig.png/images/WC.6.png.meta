@@ -1,0 +1,35 @@
+{
+    "image": "WC.6",
+    "model_sets": [
+        "Full Set",
+        "Grass",
+        "Full Set"
+    ],
+    "multi_materials": [
+        {
+            "base_material": "Liner",
+            "sub_material": "RealCloth Twill Light Grey"
+        },
+        {
+            "base_material": "Fabric",
+            "sub_material": "Material"
+        },
+        {
+            "base_material": "Metal - Table",
+            "sub_material": "Paint Metallic Orange peel Deep Cobalt Blue"
+        },
+        {
+            "base_material": "Metal - Chairs",
+            "sub_material": "Paint Metallic Deep Cobalt Blue"
+        },
+        {
+            "base_material": "Table Top",
+            "sub_material": "Marble Black Advanced"
+        },
+        {
+            "base_material": "Fabric #2",
+            "sub_material": "Material"
+        }
+    ],
+    "studio": "Top View"
+}

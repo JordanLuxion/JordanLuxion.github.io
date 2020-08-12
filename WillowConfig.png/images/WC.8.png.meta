@@ -1,0 +1,31 @@
+{
+    "image": "Config_Test.2",
+    "model_sets": [
+        "Full Set",
+        "Full Set",
+        "Backplate Ground"
+    ],
+    "multi_materials": [
+        {
+            "base_material": "Liner",
+            "sub_material": "Gray"
+        },
+        {
+            "base_material": "Fabric",
+            "sub_material": "Diamond Twill"
+        },
+        {
+            "base_material": "Metal - Table",
+            "sub_material": "Black Aluminum"
+        },
+        {
+            "base_material": "Metal - Chairs",
+            "sub_material": "Black Aluminum"
+        },
+        {
+            "base_material": "Table Top",
+            "sub_material": "Terrazzo Floor Tan"
+        }
+    ],
+    "studio": "Front - Dock"
+}
